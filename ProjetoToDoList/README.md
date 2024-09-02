@@ -116,7 +116,11 @@ Desenvolver uma aplicação web de To-Do List utilizando tecnologias modernas e 
 - **Gestão de Mudanças:** Processos claros para a solicitação, avaliação e implementação de mudanças nos requisitos.
 - **Ambiente de Teste:** Manter um ambiente de teste que reflita o ambiente de produção para garantir a qualidade dos deploys.
 
-# FORMATIVA4T
-# FORMATIVA4T
-# FORMATIVA4T
-# FORMATIVA4T
+- **Diagrama de Fluxo:**
+![Diagrama de Fluxo do Usuário](Diagramas/Diagrama%20de%20Fluxo-2024-09-02-162848.png)
+
+- **Diagrama de Classe:**
+![Diagrama de Classe do Usuário](Diagramas/Diagrama%20de%20Classe-2024-09-02-163234.png)
+
+- **Diagrama de Uso:**
+![Diagrama de Uso do Usuário](Diagramas/Diagrama%20de%20Uso-2024-09-02-161849.png)
