@@ -124,3 +124,102 @@ Desenvolver uma aplicação web de To-Do List utilizando tecnologias modernas e 
 
 - **Diagrama de Uso:**
 ![Diagrama de Uso do Usuário](Diagramas/Diagrama%20de%20Uso-2024-09-02-161849.png)
+
+- **wireframes das páginas iniciais**
+
+1. Página Inicial
+Objetivo: Oferecer opções de acesso para cadastro e login.
+
+Elementos a Incluir:
+Cabeçalho: Logo ou nome da aplicação.
+Título: Mensagem de boas-vindas ou slogan.
+Botões de Ação:
+Cadastrar: Leva para a página de cadastro.
+Login: Leva para a página de login.
+Rodapé: Links para políticas de privacidade e termos de uso (opcional).
+Exemplo de Wireframe de Baixa Fidelidade:
+plaintext
+
+-------------------------------------------
+|                 [Logo]                  |
+|                Nome da App              |
+|-----------------------------------------|
+|          Bem-vindo à nossa aplicação!   |
+|-----------------------------------------|
+| [Cadastrar]      [Login]                 |
+|-----------------------------------------|
+|             Políticas de Privacidade    |
+|             Termos de Uso               |
+-------------------------------------------
+
+2. Página de Cadastro
+Objetivo: Permitir que novos usuários criem uma conta.
+
+Elementos a Incluir:
+Cabeçalho: Logo ou nome da aplicação.
+Título: "Cadastro" ou "Crie sua conta".
+Campos de Entrada:
+Nome Completo
+E-mail
+Senha
+Confirmar Senha
+Botão de Ação:
+Cadastrar: Envia o formulário.
+Link de Navegação:
+Já tem uma conta? Leva para a página de login.
+Rodapé: Links para políticas de privacidade e termos de uso (opcional).
+Exemplo de Wireframe de Baixa Fidelidade:
+plaintext
+
+-------------------------------------------
+|                 [Logo]                  |
+|                Nome da App              |
+|-----------------------------------------|
+|               Crie sua conta            |
+|-----------------------------------------|
+| Nome Completo: [__________]             |
+| E-mail:        [__________]             |
+| Senha:         [__________]             |
+| Confirmar Senha: [__________]           |
+|-----------------------------------------|
+| [Cadastrar]                             |
+|-----------------------------------------|
+| Já tem uma conta? [Login]               |
+|-----------------------------------------|
+|             Políticas de Privacidade    |
+|             Termos de Uso               |
+-------------------------------------------
+
+3. Página de Login
+Objetivo: Permitir que usuários existentes acessem suas contas.
+
+Elementos a Incluir:
+Cabeçalho: Logo ou nome da aplicação.
+Título: "Login" ou "Acesse sua conta".
+Campos de Entrada:
+E-mail
+Senha
+Botão de Ação:
+Login: Envia o formulário.
+Link de Navegação:
+Não tem uma conta? Leva para a página de cadastro.
+Rodapé: Links para políticas de privacidade e termos de uso (opcional).
+Exemplo de Wireframe de Baixa Fidelidade:
+plaintext
+
+-------------------------------------------
+|                 [Logo]                  |
+|                Nome da App              |
+|-----------------------------------------|
+|               Acesse sua conta          |
+|-----------------------------------------|
+| E-mail:        [__________]             |
+| Senha:         [__________]             |
+|-----------------------------------------|
+| [Login]                                 |
+|-----------------------------------------|
+| Não tem uma conta? [Cadastrar]          |
+|-----------------------------------------|
+|             Políticas de Privacidade    |
+|             Termos de Uso               |
+-------------------------------------------
